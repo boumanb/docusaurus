@@ -1,6 +1,6 @@
 ---
 title: Add blog post to Docusaurus using Netlify CMS (GitHub)
-slug: Add blog post to Docusaurus using Netlify CMS (GitHub)
+slug: 2023-02-11-add-blog-post-to-docusaurus-using-netlify-cms-github
 authors:
   - name: Billy Bouman
     url: https://github.com/boumanb
